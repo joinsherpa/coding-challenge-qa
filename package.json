@@ -4,8 +4,8 @@
   "description": "Sherpa-QA-challenge",
   "main": "index.js",
   "scripts": {
-    "open-cypressUI": "npx cypress open",
-    "test": "npx cypress run"
+    "test": "npx cypress run",
+    "test-ui": "npx cypress open"
   },
   "repository": {
     "type": "git",
