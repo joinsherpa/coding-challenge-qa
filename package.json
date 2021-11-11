@@ -1,0 +1,24 @@
+{
+  "name": "qa-cypress-challenge",
+  "version": "1.0.0",
+  "description": "Sherpa-QA-challenge",
+  "main": "index.js",
+  "scripts": {
+    "open-cypressUI": "npx cypress open",
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joinsherpa/qa-cypress-challenge.git"
+  },
+  "author": "Sherpa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joinsherpa/qa-cypress-challenge/issues"
+  },
+  "homepage": "https://github.com/joinsherpa/qa-cypress-challenge#readme",
+  "dependencies": {
+    "cypress": "^8.7.0",
+    "typescript": "^4.4.4"
+  }
+}

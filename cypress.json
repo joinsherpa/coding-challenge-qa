@@ -1,0 +1,16 @@
+{
+    "modifyObstructiveCode": false,
+    "video": false,
+    "screenshotOnRunFailure": true,
+    "trashAssetsBeforeRuns": true,
+    "chromeWebSecurity": false,
+    "viewportWidth": 1200,
+    "viewportHeight": 900,
+    "watchForFileChanges": false,
+    "baseUrl": "https://apps-sandbox.joinsherpa.io/trip?appId=sxgyNDA1Mz",
+    "env": {
+        "environment": "sandbox",
+        "host": "https://apps-sandbox.joinsherpa.io/trip?appId=sxgyNDA1Mz",
+        "route": "/trip"
+    }
+}
