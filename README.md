@@ -21,7 +21,7 @@ An step of the interview process for QA role at sherpa
 
 1. Navigate to [Sandbox](https://apps-sandbox.joinsherpa.io/trip?appId=sxgyNDA1Mz) in your favorite browser.
 2. Make sure to verify the trip has loaded in the browser.
-3. Search a trip `Germany to Canada` as a vaccinated traveler.
+3. Search a trip from `Germany` to `Canada` as a vaccinated traveler.
    * Expand document required section.
    * Verify ArriveCAN online [link](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html).
 4. Switch to not vaccinated
