@@ -3,6 +3,7 @@
 Find out more about sherpa° at our [careers page](https://joinsherpa.com/careers).
 
 Looking for a [Backend Engineering](https://github.com/joinsherpa/coding-challenge-backend) role instead?
+
 Looking for a [Frontend Engineering](https://github.com/joinsherpa/coding-challenge-frontend) role instead?
 
 ## Introduction
@@ -34,7 +35,7 @@ The product team has a created a brand new application to help travellers find t
 ### Manual test
 
 So far the team has been following these steps to manually test if the application is working as expected and if it can be released into production.
-Currently the application in in a user acceptance environment called `Sandbox`.
+Currently the application is in a user acceptance environment called `Sandbox` and waiting to be promoted into `production`.
 
 Steps for manual testing:
 1. Navigate to [Trip Element in sandbox](https://apps-sandbox.joinsherpa.io/trip?appId=sxgyNDA1Mz) in your favorite browser.
@@ -54,6 +55,7 @@ Here is your starting point:
 2. Write test cases to cover the manual steps above (1 to 5).
 
 Note1: Don't worry about navigating to the Sherpa url, the Cypress is setup to start there.
+
 Note2: Cypress uses electron browser by default. If you wish to run it in any other browser, feel free to do so!
 
 > Keep in mind, the data you're testing against can change several times a day, what you're looking at now might change tomorrow! 
