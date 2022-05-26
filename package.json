@@ -7,6 +7,9 @@
     "test": "npx cypress run",
     "test-ui": "npx cypress open"
   },
+  "engines": {
+    "node": ">=14.17.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joinsherpa/qa-cypress-challenge.git"
